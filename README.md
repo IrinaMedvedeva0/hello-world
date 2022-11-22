@@ -1,2 +1,2 @@
 # hello-world
-My nearly first repository
+So, it is my first commited change
